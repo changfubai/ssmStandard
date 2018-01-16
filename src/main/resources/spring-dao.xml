@@ -69,5 +69,4 @@
         <!--<property name="markerInterface" value="tk.mybatis.mapper.common.Mapper"/>-->
         <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
     </bean>
-
 </beans>
